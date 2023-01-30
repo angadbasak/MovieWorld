@@ -7,7 +7,7 @@ import SearchIcon from './search.svg'
 // 4dd4fff2
 //http://www.omdbapi.com/?i=tt3896198&apikey=4dd4fff2
 //async = asynchronise data takes some time to fetch these movies
-const API_URL = 'http://www.omdbapi.com/?apikey=${process.emv.REACT_APP_OMDB}&S=${form.movie}&type=movie'
+const API_URL = 'https://www.omdbapi.com/?apikey=4dd4fff2'
 
 // const movie1 = {
 //     "Title": "Amazing Spiderman Syndrome",
